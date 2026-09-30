@@ -8,6 +8,25 @@
 
 ---
 
+## 🗂️ 精选项目 · Featured Projects
+
+| 项目 Project | 一句话简介 | 状态 |
+|---|---|---|
+| [nanpad](https://github.com/Songwo/nanpad) ⭐10 | 开源个人数字资产桌面工作台：主机、图文、自建节点统一管理 | 🚀 主力维护中 |
+| [BaiMaoGongFang](https://github.com/Songwo/BaiMaoGongFang) ⭐15 | 白帽工坊 —— 网络安全攻防学习平台 | 🚀 主力维护中 |
+| [Aurorays-Studio](https://github.com/Songwo/Aurorays-Studio) | 面向电商团队的 AI 工作台：对话 / AI 能力集成 | 🚀 主力维护中 |
+| [muse-invite-community](https://github.com/Songwo/muse-invite-community) | Muse 邀请码分享、领取与状态反馈社区 | 🌱 新项目 |
+| [Mail-Gateway-Hub](https://github.com/Songwo/Mail-Gateway-Hub) ⭐5 | 基于 Gemini 的智能邮件网关：多邮箱聚合、AI 摘要提取 | 🛠️ 实用工具 |
+| [AI-Term](https://github.com/Songwo/AI-Term) ⭐4 | 面向多 AI CLI 场景的配置管理工具 | 🛠️ 实用工具 |
+| [AllEmailManager](https://github.com/Songwo/AllEmailManager) ⭐3 | 多邮箱集中管理推送 | 🛠️ 实用工具 |
+| [ZensImageBed](https://github.com/Songwo/ZensImageBed) ⭐2 | 免费图床，支持图片管理与删除 | 🛠️ 实用工具 |
+| [ZensFileTranslate](https://github.com/Songwo/ZensFileTranslate) ⭐1 | 基于 Cloudflare Workers + R2 的文件快传系统 | 🛠️ 实用工具 |
+| [ZensDazi](https://github.com/Songwo/ZensDazi) | 面向中文用户的文章型打字练习平台 | 🛠️ 实用工具 |
+
+> 更多 Zens 系列小工具与学习实验项目，见 [完整仓库列表](https://github.com/Songwo?tab=repositories)。
+
+---
+
 ## 🌐 English
 
 ### 👋 Hi, I'm Song
