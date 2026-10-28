@@ -10,20 +10,25 @@
 
 ## 🗂️ 精选项目 · Featured Projects
 
-| 项目 Project | 一句话简介 | 状态 |
-|---|---|---|
-| [nanpad](https://github.com/Songwo/nanpad) ⭐10 | 开源个人数字资产桌面工作台：主机、图文、自建节点统一管理 | 🚀 主力维护中 |
-| [BaiMaoGongFang](https://github.com/Songwo/BaiMaoGongFang) ⭐15 | 白帽工坊 —— 网络安全攻防学习平台 | 🚀 主力维护中 |
-| [Aurorays-Studio](https://github.com/Songwo/Aurorays-Studio) | 面向电商团队的 AI 工作台：对话 / AI 能力集成 | 🚀 主力维护中 |
-| [muse-invite-community](https://github.com/Songwo/muse-invite-community) | Muse 邀请码分享、领取与状态反馈社区 | 🌱 新项目 |
-| [Mail-Gateway-Hub](https://github.com/Songwo/Mail-Gateway-Hub) ⭐5 | 基于 Gemini 的智能邮件网关：多邮箱聚合、AI 摘要提取 | 🛠️ 实用工具 |
-| [AI-Term](https://github.com/Songwo/AI-Term) ⭐4 | 面向多 AI CLI 场景的配置管理工具 | 🛠️ 实用工具 |
-| [AllEmailManager](https://github.com/Songwo/AllEmailManager) ⭐3 | 多邮箱集中管理推送 | 🛠️ 实用工具 |
-| [ZensImageBed](https://github.com/Songwo/ZensImageBed) ⭐2 | 免费图床，支持图片管理与删除 | 🛠️ 实用工具 |
-| [ZensFileTranslate](https://github.com/Songwo/ZensFileTranslate) ⭐1 | 基于 Cloudflare Workers + R2 的文件快传系统 | 🛠️ 实用工具 |
-| [ZensDazi](https://github.com/Songwo/ZensDazi) | 面向中文用户的文章型打字练习平台 | 🛠️ 实用工具 |
+| 项目 Project | 一句话简介 | 方向 / 状态 | Stars |
+|---|---|---|---|
+| [知屿 Zhiyu](https://github.com/Songwo/zhiyu) | 连接文档、账号与数字资产的个人工作空间，支持桌面版与自托管网页版 | 🖥️ 数字资产 | [![zhiyu Stars](https://img.shields.io/github/stars/Songwo/zhiyu?style=flat-square&label=Stars)](https://github.com/Songwo/zhiyu/stargazers) |
+| [BaiMaoGongFang](https://github.com/Songwo/BaiMaoGongFang) | 白帽工坊：网络安全攻防学习平台 | 🔐 安全学习 | [![BaiMaoGongFang Stars](https://img.shields.io/github/stars/Songwo/BaiMaoGongFang?style=flat-square&label=Stars)](https://github.com/Songwo/BaiMaoGongFang/stargazers) |
+| [postman-zh](https://github.com/Songwo/postman-zh) | Postman 桌面版简体中文汉化插件：一键安装、可还原、跟随升级 | 🛠️ 开发工具 | [![postman-zh Stars](https://img.shields.io/github/stars/Songwo/postman-zh?style=flat-square&label=Stars)](https://github.com/Songwo/postman-zh/stargazers) |
+| [Zens / Campus Pulse](https://github.com/Songwo/Zens) | 智能内容社区与趋势分析平台，支持 AI 辅助治理、实时通知和子站 SSO | 💬 社区平台 | [![Zens Stars](https://img.shields.io/github/stars/Songwo/Zens?style=flat-square&label=Stars)](https://github.com/Songwo/Zens/stargazers) |
+| [muse-invite-community](https://github.com/Songwo/muse-invite-community) | Muse 邀请码分享、领取与状态反馈社区 | 💬 社区工具 | [![muse-invite-community Stars](https://img.shields.io/github/stars/Songwo/muse-invite-community?style=flat-square&label=Stars)](https://github.com/Songwo/muse-invite-community/stargazers) |
+| [Linux.Store / DevStore](https://github.com/Songwo/Linux.Store) | 基于 Go + Vue 的数字商品商城，支持秒杀、订单支付与卡密发货 | 🛒 数字商城 | [![Linux.Store Stars](https://img.shields.io/github/stars/Songwo/Linux.Store?style=flat-square&label=Stars)](https://github.com/Songwo/Linux.Store/stargazers) |
+| [CDK-Zens / 缪盒空投台](https://github.com/Songwo/CDK-Zens) | 面向 CDK、兑换码、节点分发和空投领取的运营平台 | 🎁 社区运营 | [![CDK-Zens Stars](https://img.shields.io/github/stars/Songwo/CDK-Zens?style=flat-square&label=Stars)](https://github.com/Songwo/CDK-Zens/stargazers) |
+| [zdc-shop](https://github.com/Songwo/zdc-shop) | Zens 社区积分商城，通过 SSO 登录并兑换商品 | 🛒 社区商城 | [![zdc-shop Stars](https://img.shields.io/github/stars/Songwo/zdc-shop?style=flat-square&label=Stars)](https://github.com/Songwo/zdc-shop/stargazers) |
+| [Mail-Gateway-Hub](https://github.com/Songwo/Mail-Gateway-Hub) | 基于 Gemini 的智能邮件网关：多邮箱聚合、AI 摘要与通知推送 | ✉️ 邮件工具 | [![Mail-Gateway-Hub Stars](https://img.shields.io/github/stars/Songwo/Mail-Gateway-Hub?style=flat-square&label=Stars)](https://github.com/Songwo/Mail-Gateway-Hub/stargazers) |
+| [AI-Term](https://github.com/Songwo/AI-Term) | 面向多 AI CLI 场景的配置管理工具 | 🛠️ 开发工具 | [![AI-Term Stars](https://img.shields.io/github/stars/Songwo/AI-Term?style=flat-square&label=Stars)](https://github.com/Songwo/AI-Term/stargazers) |
+| [ErWeiMaZens](https://github.com/Songwo/ErWeiMaZens) | 二维码生成与管理平台，支持动态二维码、批量生成和扫描统计 | 🛠️ 实用工具 | [![ErWeiMaZens Stars](https://img.shields.io/github/stars/Songwo/ErWeiMaZens?style=flat-square&label=Stars)](https://github.com/Songwo/ErWeiMaZens/stargazers) |
+| [ZensImageBed](https://github.com/Songwo/ZensImageBed) | 免费图床，支持图片管理与删除 | 🖼️ 图片工具 | [![ZensImageBed Stars](https://img.shields.io/github/stars/Songwo/ZensImageBed?style=flat-square&label=Stars)](https://github.com/Songwo/ZensImageBed/stargazers) |
+| [ZensFileTranslate](https://github.com/Songwo/ZensFileTranslate) | 基于 Cloudflare Workers + R2 的文件快传系统 | 📁 文件工具 | [![ZensFileTranslate Stars](https://img.shields.io/github/stars/Songwo/ZensFileTranslate?style=flat-square&label=Stars)](https://github.com/Songwo/ZensFileTranslate/stargazers) |
+| [ZensDazi](https://github.com/Songwo/ZensDazi) | 以真实文章为中心的打字练习平台，支持中文、英文与中英混排 | ⌨️ 打字练习 | [![ZensDazi Stars](https://img.shields.io/github/stars/Songwo/ZensDazi?style=flat-square&label=Stars)](https://github.com/Songwo/ZensDazi/stargazers) |
+| [AllEmailManager / EmailHub](https://github.com/Songwo/AllEmailManager) | 多邮箱聚合、实时监听、收发邮件与通知推送 | 📦 已归档 | [![AllEmailManager Stars](https://img.shields.io/github/stars/Songwo/AllEmailManager?style=flat-square&label=Stars)](https://github.com/Songwo/AllEmailManager/stargazers) |
 
-> 更多 Zens 系列小工具与学习实验项目，见 [完整仓库列表](https://github.com/Songwo?tab=repositories)。
+> Star 数由动态徽章展示，可能受服务缓存影响；已归档项目保留供参考。更多工具与学习实验项目，见 [完整仓库列表](https://github.com/Songwo?tab=repositories)。
 
 ---
 
